@@ -75,7 +75,7 @@ button:active {
     margin: 70px 180px 20px 240px;
     display: block;
     margin-top: 99px;
-    background-color: white;
+
     text-align: center;
 }
 
@@ -102,22 +102,22 @@ h4  {
 
     width: 960px;
     height: 100px;
-    margin-top: 193px;
+
 
 }
 
-.movie1 {
+.movie0 {
     float: left;
     margin-left: 67px;
 
 }
 
-.movie2 {
+.movie1 {
     float: left;
     margin-left: 205px;
 }
 
-.movie3 {
+.movie2 {
     float: right;
     margin-right: 60px;
 }
