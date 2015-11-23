@@ -67,6 +67,7 @@ $( function() {
 
     var updateMovie = function( html ) {
         $( ".movies" ).html( html );
+
     };
     var reachedEnd = function( whichend ) {
         alert( "You have reached the " + whichend );
