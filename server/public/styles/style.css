@@ -1,0 +1,123 @@
+body {
+    padding-top: 20px;
+    background-color: rgb(23, 57, 66);
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 960px;
+    display: block;
+}
+.wrapper div{
+
+}
+
+.header {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0b272f+6,3e616b+52,02161c+100 */
+background: rgb(11,39,47); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(11,39,47,1) 6%, rgba(62,97,107,1) 52%, rgba(2,22,28,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(11,39,47,1) 6%,rgba(62,97,107,1) 52%,rgba(2,22,28,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(11,39,47,1) 6%,rgba(62,97,107,1) 52%,rgba(2,22,28,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0b272f', endColorstr='#02161c',GradientType=0 ); /* IE6-9 */
+text-align: center;
+border-radius: 51px;
+border: 1px solid white;
+
+
+}
+.header h1 {
+    font-family: Georgia, serif;
+    padding: 15px 0 15px 0;
+
+    color: rgb(168, 173, 180)
+}
+
+.previous {
+    display: block;
+    float: left;
+    margin-right: 20px;
+
+
+
+}
+button {
+
+	-moz-box-shadow:inset 1px 2px 41px 8px #23395e;
+	-webkit-box-shadow:inset 1px 2px 41px 8px #23395e;
+	box-shadow:inset 1px 2px 41px 8px #23395e;
+	background-color:transparent;
+	-moz-border-radius:26px;
+	-webkit-border-radius:26px;
+	border-radius:26px;
+	border:1px solid #91c4b7;
+	display:inline-block;
+	cursor:pointer;
+	color:#26e4eb;
+	font-family:Georgia;
+	font-size:22px;
+	font-weight:bold;
+	font-style:italic;
+	padding:17px 52px;
+	text-decoration:none;
+	text-shadow:-1px -1px 17px #a7acb8;
+    margin-top: 77px;
+}
+button {
+	background-color:transparent;
+}
+button:active {
+	position:relative;
+	top:1px;
+}
+
+/**********Names of the students************/
+.displayName {
+    margin: 70px 180px 20px 240px;
+    display: block;
+    margin-top: 99px;
+    background-color: white;
+    text-align: center;
+}
+
+.next {
+    display: block;
+    float: right;
+
+
+}
+
+.movies {
+
+margin-top: 100px;
+
+}
+
+/*********Movies***************/
+h4  {
+    text-align: center;
+    display: block;
+}
+
+.movies {
+
+    width: 960px;
+    height: 100px;
+    margin-top: 193px;
+
+}
+
+.movie1 {
+    float: left;
+    margin-left: 67px;
+
+}
+
+.movie2 {
+    float: left;
+    margin-left: 205px;
+}
+
+.movie3 {
+    float: right;
+    margin-right: 60px;
+}
